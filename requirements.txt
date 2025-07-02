@@ -1,1 +1,7 @@
-<p> Movie </p>
+Library       Kaam kya karta hai                     
+
+pandas        Data loading, cleaning, analysis       
+numpy         Numeric operations, array handling     
+matplotlib    Graph plotting (bar, line, etc.)       
+seaborn       Beautiful statistical plots            
+jupyter       Notebook environment run karne ke liye 
