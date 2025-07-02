@@ -1,0 +1,30 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore environment/config files
+.env
+.venv/
+*.env
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore log or temporary files
+*.log
+*.tmp
+
+# VS Code settings folder (optional)
+.vscode/
+
+
+     Line	                                 Purpose
+.ipynb_checkpoints 	        Auto-generated checkpoints by Jupyter Notebook; not needed in version control
+__pycache__ 	            Compiled Python bytecode files; unnecessary for source code sharing
+.env /.venv                 Environment files that may contain sensitive information like API keys
+.DS_Store/Thumbs.db	        OS-specific system files (macOS/Windows); add no value to the project
+.vscode	                    Local VS Code settings; varies per developer and shouldn't be shared
