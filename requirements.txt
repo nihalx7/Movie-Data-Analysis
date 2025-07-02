@@ -1,7 +1,8 @@
-Library       Kaam kya karta hai                     
+Library                         Purpose                                                          
 
-pandas        Data loading, cleaning, analysis       
-numpy         Numeric operations, array handling     
-matplotlib    Graph plotting (bar, line, etc.)       
-seaborn       Beautiful statistical plots            
-jupyter       Notebook environment run karne ke liye 
+pandas       For loading, cleaning, and analyzing structured data                 
+numpy        Performs numerical operations and array manipulation                 
+matplotlib   Used for creating basic visualizations like bar and line plots       
+seaborn      Creates advanced and attractive statistical visualizations           
+jupyter      Provides an interactive notebook environment for running Python code 
+
